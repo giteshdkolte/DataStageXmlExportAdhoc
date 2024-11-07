@@ -1,0 +1,12 @@
+datastageLegacy:
+  isDomain: testDomain:2342
+  isUser: ds_user
+  isPwd: ds_user
+  host: TestHost
+  isProject: TestProject
+  classicPath: C:\IBM\InformationServer\Clients\Classic
+  istoolPath: C:\IBM\InformationServer\Clients\istools\cli
+  statusPath: ..\status
+  exportPath: ..\output\export
+  exportListAdhoc: ..\input\dsXmlExportList.txt
+  statusFileAdhoc: _XML_Export_Status
