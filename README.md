@@ -2,6 +2,9 @@
 
 This project supports exporting XML jobs from a given project in DataStage On-Premise.
 
+## Architecture Map
+![export_xml](https://github.com/user-attachments/assets/a2def136-7379-4286-8171-77370b3d170f)
+
 ## Supported ETL Versions
 - DataStage Infosphere 11.7
 - DataStage Infosphere 11.5
